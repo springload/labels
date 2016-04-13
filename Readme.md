@@ -2,7 +2,7 @@
 
 - Run `npm install -g github-label-sync`
 - Make sure you have a file `labels.json` at the root of your project. If you don't, help yourself here:
-https://github.com/springload/springtunes/blob/master/labels.json
+https://github.com/springload/labels/blob/master/labels.json
 - Then make sure you run your terminal at the root of your project
 - Then run `github-label-sync --access-token XXXXXXX springload/YOUR_PROJECT`
 - You should get an output similar to this:
