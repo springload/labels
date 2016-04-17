@@ -92,3 +92,7 @@ Here is a list of our labels and their colors:
 - Module 4 #1E90FF
 - Module 5 #1E90FF
 - etc. just use #1E90FF for all feature labels
+
+
+
+Keep an eye on https://www.npmjs.com/package/org-labels if we need to update labels on all the repos at once.
