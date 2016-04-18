@@ -110,5 +110,9 @@
   {
     "name": "Won't fix",
     "color": "000000"
+  },
+  {
+    "name": "Management",
+    "color": "006b75"
   }
 ]
