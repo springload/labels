@@ -48,6 +48,10 @@
     "color": "A52A2A"
   },
   {
+    "name": "Blocked",
+    "color": "D00205"
+  },
+  {
     "name": "Bug",
     "color": "fc2929"
   },
