@@ -45,7 +45,9 @@ Labels updated
 For more info/config about github-label-sync, have a look at https://github.com/Financial-Times/github-label-sync
 
 Here is a list of our labels and their colors:
-##PROJECT STAGE LABELS
+
+## PROJECT STAGE LABELS
+
 - Backlog #ccc
 - Ready #ccc
 - Working #ccc
@@ -54,14 +56,16 @@ Here is a list of our labels and their colors:
 - To deploy #ccc
 - Live #ccc
 
-##DEPARTMENT LABELS
+## DEPARTMENT LABELS
+
 - Design #fbca04
 - FED #0e8a16
 - BED #0000CD
 
-##TASK LABELS
+## TASK LABELS
 
-###Default github ones (leave default colors apart from specified)
+### Default github ones (leave default colors apart from specified)
+
 - Bug
 - Enhancement
 - Won't fix #000000
@@ -69,30 +73,32 @@ Here is a list of our labels and their colors:
 - Help wanted #cc317c (same color than Question)
 - Question
 
-###Taken from GMI
+### Taken from GMI
+
 - Content update #ffb600
 - Future #FFF
 - Tested & Failed #e99695
 - Tested & Passed #c2e0c6
 
-##PRIORITY LABELS
+## PRIORITY LABELS
+
 - One star
 - Two stars
 - Three stars
 
-###ESTIMATION LABELS
+### ESTIMATION LABELS
+
 - Small #FFEC8B   (X<33% of a feature)
 - Medium #F4A460  (33%<X<66% of a feature)
 - Big #A52A2A    (66%<X of a feature)
 
-###FEATURE LABELS (Example from GMI sales tool)
+### FEATURE LABELS
+
 - Module 1 #1E90FF
 - Module 2 #1E90FF
 - Module 3 #1E90FF
 - Module 4 #1E90FF
 - Module 5 #1E90FF
 - etc. just use #1E90FF for all feature labels
-
-
 
 Keep an eye on https://www.npmjs.com/package/org-labels if we need to update labels on all the repos at once.
